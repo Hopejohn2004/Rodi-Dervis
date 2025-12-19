@@ -1,3 +1,17 @@
+### 📊 My GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodi-Dervis&theme=github-compact" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodi-Dervis&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodi-Dervis&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+</p>
+
+### 🛡️ Cyber Security & Development Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,cs,python,dotnet,git,github,vscode,visualstudio,docker,postman" />
+</p>
 # 💫 About Me:
 🔭 I’m currently working on: Foundations of Cyber Security and Network Security labs.<br>👯 I’m looking to collaborate on: CTF (Capture The Flag) teams or open-source security tool projects.<br>🤝 I’m looking for help with: Penetration testing methodologies and advanced Linux administration.<br>🌱 I’m currently learning: Web application security, OWASP Top 10, and automation with Python.<br>💬 Ask me about: Network protocols, operating systems, and my career goals in cybersecurity.<br>⚡ Fun fact: I find hunting for vulnerabilities more exciting than writing a "Hello World" program.
 
